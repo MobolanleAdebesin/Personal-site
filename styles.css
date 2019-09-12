@@ -9,16 +9,18 @@ body{
   margin: 0;
   line-height: 2;
 }
-.top-container{
+.intro{
   background-color: #c6f1d6;
+  margin: 0;
+  width: 100vw;
+  width: 100%;
 }
 .profile{
   padding-bottom: 75px;
 }
-}
-.mock{
-  width: 598px;
-  height: 787.312px;
+.card-img-top{
+  max-width: 50%;
+  height: 25%;
 }
 .weblink{
   color: #66BFBF;
