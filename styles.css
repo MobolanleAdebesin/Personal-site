@@ -20,12 +20,12 @@ body{
   padding-bottom: 75px;
 }
 .card-img-top{
-  max-width: 50%;
-  height: 25%;
+  max-width: 100%;
+  height: auto;
 }
 .weblink{
   color: #66BFBF;
-  font-size: 6rem;
+  font-size: 3rem;
   text-decoration: none;
 }
 
@@ -84,6 +84,7 @@ padding-top: 100px;
 padding-bottom: 100px;
 display: inline-block;
 width: 50%;
+text-align: center;
 }
 
 .footer-link{
